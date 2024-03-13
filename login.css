@@ -1,0 +1,299 @@
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.login-login {
+  width: 100%;
+  height: 1127px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login-continuewith-microsoft {
+  top: 593px;
+  left: 560px;
+  width: 320px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(195, 200, 207, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.login-text {
+  left: 53px;
+  color: rgba(46, 51, 57, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-microsoft-logo {
+  top: 16px;
+  left: 17px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-vector {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.login-vector1 {
+  top: 1.4210854715202004e-14px;
+  left: 10.50001335144043px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.login-vector2 {
+  top: 10.499996185302734px;
+  left: 0px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.login-vector3 {
+  top: 10.499996185302734px;
+  left: 10.50001335144043px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.login-continuewith-google {
+  top: 533px;
+  left: 560px;
+  width: 320px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(195, 200, 207, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+}
+.login-text02 {
+  left: 53px;
+  color: rgba(46, 51, 57, 1);
+  width: 267px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-google-logo {
+  top: 16.833328247070312px;
+  left: 17.833251953125px;
+  width: 17.966747283935547px;
+  height: 18.333337783813477px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-vector4 {
+  top: 7.5px;
+  left: 9.166748046875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.login-vector5 {
+  top: 10.916671752929688px;
+  left: 0.9833984375px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.login-vector6 {
+  top: 5.058349609375px;
+  left: 0px;
+  width: 4px;
+  height: 8px;
+  position: absolute;
+}
+.login-vector7 {
+  top: 0px;
+  left: 0.9833984375px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.login-or {
+  top: 489px;
+  left: 560px;
+  width: 320px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-text04 {
+  color: rgba(46, 51, 57, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-line3 {
+  top: 14px;
+  left: 0px;
+  width: 138px;
+  height: 1px;
+  position: absolute;
+}
+.login-line4 {
+  top: 14px;
+  left: 182px;
+  width: 138px;
+  height: 1px;
+  position: absolute;
+}
+.login-text06 {
+  top: 417px;
+  left: 560px;
+  color: rgba(46, 51, 57, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-text07 {
+  color: rgba(46, 51, 57, 1);
+}
+.login-continue {
+  top: 303px;
+  left: 557px;
+  width: 320px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background-color: var(--dl-color-default-accentgreen);
+}
+.login-text09 {
+  color: rgba(255, 255, 255, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-email-field {
+  top: 204px;
+  left: 560px;
+  width: 320px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.login-shape {
+  top: 12px;
+  left: 0px;
+  width: 320px;
+  height: 52px;
+  position: absolute;
+}
+.login-text11 {
+  left: 14px;
+  color: var(--dl-color-default-accentgreen);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-line {
+  top: 29px;
+  left: 17px;
+  width: 19px;
+  height: 1px;
+  position: absolute;
+}
+.login-text13 {
+  top: 153px;
+  left: 560px;
+  color: rgba(46, 51, 57, 1);
+  width: 320px;
+  height: auto;
+  position: absolute;
+  font-size: 31px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.login-chat-gpt-logo {
+  top: 78px;
+  left: 705px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
